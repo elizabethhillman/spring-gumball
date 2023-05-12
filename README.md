@@ -13,4 +13,4 @@
 
 ## CI 1
 
-![Screenshot of CI workflow 1](https://github.com/elizabethhillman/spring-gumball/images/CI1.png)
+![Screenshot of CI workflow 1]([https://github.com/elizabethhillman/spring-gumball/images/CI1.png](https://github.com/elizabethhillman/spring-gumball/blob/main/images/CI1.png))
