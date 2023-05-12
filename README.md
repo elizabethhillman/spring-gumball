@@ -10,3 +10,7 @@
 
 * Gradle 5.6
 * JDK 11
+
+## CI 1
+
+![Screenshot of CI workflow 1](https://github.com/elizabethhillman/spring-gumball/images/CI1.png)
